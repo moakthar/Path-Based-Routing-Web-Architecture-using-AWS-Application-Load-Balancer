@@ -366,17 +366,17 @@ Use **ALB DNS name**:
 
 ### Path-Based Routing – School
 
-![School Routing](./screenshots/16.path-based routing school.png)
+![School Routing](./screenshots/16.path-based-routing-school.png)
 
 ---
 
 ### Path-Based Routing – College
 
-![College Routing](./screenshots/17.path-based routing college.png)
+![College Routing](./screenshots/17.path-based-routing-college.png)
 
 ---
 
 ### Path-Based Routing – Office
 
-![Office Routing](./screenshots/18.path-based routing office.png)
+![Office Routing](./screenshots/18.path-based-routing-office.png)
 
